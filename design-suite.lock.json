@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "anthropics-skills",
+      "repo": "anthropics/skills",
+      "ref": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+      "sha256": "e5b0c67dbfae471c013d0e03abe66db20ca70cc0c79ab6154a386c8b026e5195"
+    },
+    {
+      "id": "wshobson-agents",
+      "repo": "wshobson/agents",
+      "ref": "9c61ab243def98f72da12abd41cfcf5bcd91af9d",
+      "sha256": "bb69ce0e368d38f623fad021e1e51949940eaf3d0b452a5463a8cd666fbeb407"
+    }
+  ],
+  "skills": [
+    { "name": "canvas-design", "source": "anthropics-skills", "path": "skills/canvas-design", "licensePath": "skills/canvas-design/LICENSE.txt" },
+    { "name": "frontend-design", "source": "anthropics-skills", "path": "skills/frontend-design", "licensePath": "skills/frontend-design/LICENSE.txt" },
+    { "name": "theme-factory", "source": "anthropics-skills", "path": "skills/theme-factory", "licensePath": "skills/theme-factory/LICENSE.txt" },
+    { "name": "visual-design-foundations", "source": "wshobson-agents", "path": "plugins/ui-design/skills/visual-design-foundations", "licensePath": "LICENSE" }
+  ]
+}
