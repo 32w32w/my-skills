@@ -1,6 +1,11 @@
 ---
 name: visual-art-director
-description: Use when a user requests art direction, reference-image analysis, visual design critique, or coordinated styling for illustrations, picture books, posters, presentations, reports, or interfaces. 适用于参考图分析、审美评价、构图配色、视觉风格统一及跨媒介设计。
+description: >
+  用于网页与 UI 设计、照片修图、海报、插画与绘本、PPT 和报告的视觉设计与艺术指导，
+  涵盖参考图分析、审美评价、构图、配色、排版、调色、光影重塑和风格统一。
+  当用户要求设计页面、美化界面、制作视觉作品、修图调色、分析图片，
+  参考某种风格，或提出“更好看”“更有质感”“高级感”“风光大片感”等视觉要求时使用。
+  在已有视觉任务中，“继续优化”“按你的想法改”“按照参考图调整”等后续请求也适用。
 ---
 
 # Visual Art Director · 视觉艺术指导
