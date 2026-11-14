@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="notes-title notes-desc">
+  <title id="notes-title">32w32w · 便签工作台精修</title>
+  <desc id="notes-desc">减轻字体和叠卡边框的紫色工作台，一张贴着短胶带的黄色便签，与右侧设计工具收纳盒。</desc>
+  <rect width="1200" height="500" fill="#e8e1f5"/>
+  <g shape-rendering="crispEdges">
+    <rect x="48" y="48" width="1120" height="424" fill="#c3b1d8"/>
+    <rect x="40" y="40" width="1120" height="424" fill="#493065"/>
+    <rect x="48" y="48" width="1104" height="408" fill="#fff9fc"/>
+    <rect x="48" y="48" width="1104" height="64" fill="#d4c3e8"/>
+    <rect x="48" y="112" width="1104" height="8" fill="#493065"/>
+    <rect x="1088" y="80" width="32" height="8" fill="#493065"/>
+    <rect x="88" y="176" width="632" height="248" fill="#e3d4e5"/>
+    <rect x="80" y="168" width="632" height="248" fill="#f7e3ae"/>
+    <rect x="80" y="168" width="632" height="8" fill="#fff0c9"/>
+    <path d="M344 152H448V160H456V184H344V176H336V160H344Z" fill="#c6b0e1"/>
+    <rect x="352" y="160" width="88" height="8" fill="#d8c9ea"/>
+    <rect x="784" y="304" width="328" height="120" fill="#c8b8dc"/>
+    <rect x="776" y="280" width="112" height="24" fill="#ac91c7"/>
+    <rect x="776" y="296" width="328" height="120" fill="#ac91c7"/>
+    <rect x="824" y="152" width="264" height="192" fill="#e2d6ed"/>
+    <rect x="816" y="144" width="264" height="192" fill="#c6b0e1"/>
+    <rect x="824" y="152" width="248" height="176" fill="#fff9fc"/>
+    <rect x="848" y="176" width="200" height="32" fill="#c6b0e1"/>
+    <rect x="848" y="224" width="56" height="80" fill="#a88ac4"/>
+    <rect x="920" y="224" width="128" height="32" fill="#e8e1f5"/>
+    <rect x="920" y="272" width="128" height="32" fill="#e8e1f5"/>
+    <rect x="792" y="272" width="280" height="104" fill="#6f548b"/>
+    <rect x="800" y="280" width="264" height="88" fill="#fff9fc"/>
+    <rect x="816" y="296" width="64" height="56" fill="#493065"/>
+    <rect x="888" y="296" width="64" height="56" fill="#c6b0e1"/>
+    <rect x="960" y="296" width="88" height="56" fill="#f5dd9e"/>
+    <rect x="776" y="360" width="328" height="56" fill="#c6b0e1"/>
+    <rect x="776" y="360" width="328" height="8" fill="#e2d6ee"/>
+    <rect x="776" y="408" width="328" height="8" fill="#ac91c7"/>
+  </g>
+  <g fill="#493065" font-family="Microsoft YaHei, sans-serif" font-size="64" font-weight="500">
+    <text x="120" y="272">灵感随手记，</text>
+    <text x="120" y="352">方法慢慢攒。</text>
+  </g>
+<g id="pixel-wordmark" role="img" aria-label="32w32w" fill="#493065" shape-rendering="crispEdges" transform="translate(72 64)"><rect x="0" y="0" width="6" height="6"/><rect x="6" y="0" width="6" height="6"/><rect x="12" y="0" width="6" height="6"/><rect x="18" y="0" width="6" height="6"/><rect x="24" y="6" width="6" height="6"/><rect x="24" y="12" width="6" height="6"/><rect x="6" y="18" width="6" height="6"/><rect x="12" y="18" width="6" height="6"/><rect x="18" y="18" width="6" height="6"/><rect x="24" y="24" width="6" height="6"/><rect x="24" y="30" width="6" height="6"/><rect x="0" y="36" width="6" height="6"/><rect x="6" y="36" width="6" height="6"/><rect x="12" y="36" width="6" height="6"/><rect x="18" y="36" width="6" height="6"/><rect x="36" y="0" width="6" height="6"/><rect x="42" y="0" width="6" height="6"/><rect x="48" y="0" width="6" height="6"/><rect x="54" y="0" width="6" height="6"/><rect x="60" y="6" width="6" height="6"/><rect x="60" y="12" width="6" height="6"/><rect x="42" y="18" width="6" height="6"/><rect x="48" y="18" width="6" height="6"/><rect x="54" y="18" width="6" height="6"/><rect x="36" y="24" width="6" height="6"/><rect x="36" y="30" width="6" height="6"/><rect x="36" y="36" width="6" height="6"/><rect x="42" y="36" width="6" height="6"/><rect x="48" y="36" width="6" height="6"/><rect x="54" y="36" width="6" height="6"/><rect x="60" y="36" width="6" height="6"/><rect x="72" y="12" width="6" height="6"/><rect x="96" y="12" width="6" height="6"/><rect x="72" y="18" width="6" height="6"/><rect x="96" y="18" width="6" height="6"/><rect x="72" y="24" width="6" height="6"/><rect x="84" y="24" width="6" height="6"/><rect x="96" y="24" width="6" height="6"/><rect x="72" y="30" width="6" height="6"/><rect x="84" y="30" width="6" height="6"/><rect x="96" y="30" width="6" height="6"/><rect x="78" y="36" width="6" height="6"/><rect x="90" y="36" width="6" height="6"/><rect x="108" y="0" width="6" height="6"/><rect x="114" y="0" width="6" height="6"/><rect x="120" y="0" width="6" height="6"/><rect x="126" y="0" width="6" height="6"/><rect x="132" y="6" width="6" height="6"/><rect x="132" y="12" width="6" height="6"/><rect x="114" y="18" width="6" height="6"/><rect x="120" y="18" width="6" height="6"/><rect x="126" y="18" width="6" height="6"/><rect x="132" y="24" width="6" height="6"/><rect x="132" y="30" width="6" height="6"/><rect x="108" y="36" width="6" height="6"/><rect x="114" y="36" width="6" height="6"/><rect x="120" y="36" width="6" height="6"/><rect x="126" y="36" width="6" height="6"/><rect x="144" y="0" width="6" height="6"/><rect x="150" y="0" width="6" height="6"/><rect x="156" y="0" width="6" height="6"/><rect x="162" y="0" width="6" height="6"/><rect x="168" y="6" width="6" height="6"/><rect x="168" y="12" width="6" height="6"/><rect x="150" y="18" width="6" height="6"/><rect x="156" y="18" width="6" height="6"/><rect x="162" y="18" width="6" height="6"/><rect x="144" y="24" width="6" height="6"/><rect x="144" y="30" width="6" height="6"/><rect x="144" y="36" width="6" height="6"/><rect x="150" y="36" width="6" height="6"/><rect x="156" y="36" width="6" height="6"/><rect x="162" y="36" width="6" height="6"/><rect x="168" y="36" width="6" height="6"/><rect x="180" y="12" width="6" height="6"/><rect x="204" y="12" width="6" height="6"/><rect x="180" y="18" width="6" height="6"/><rect x="204" y="18" width="6" height="6"/><rect x="180" y="24" width="6" height="6"/><rect x="192" y="24" width="6" height="6"/><rect x="204" y="24" width="6" height="6"/><rect x="180" y="30" width="6" height="6"/><rect x="192" y="30" width="6" height="6"/><rect x="204" y="30" width="6" height="6"/><rect x="186" y="36" width="6" height="6"/><rect x="198" y="36" width="6" height="6"/></g>
+</svg>

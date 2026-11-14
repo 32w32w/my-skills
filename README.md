@@ -1,14 +1,19 @@
+![my-skills：灵感随手记，方法慢慢攒。](assets/banner.png)
+
 # my-skills
 
-个人可复用技能集合。
+面向视觉创作的个人可复用技能集合。把参考分析、设计评价和风格协调，整理成下一次能继续使用的方法。
 
 ## Visual Art Director
 
-[查看技能内容](skills/visual-art-director/SKILL.md)
+[阅读主技能](skills/visual-art-director/SKILL.md)
 
 用于参考图分析、艺术指导、设计评价，以及插画、绘本、海报、PPT、报告和网页的视觉协调。
 
 这是独立编写的指令型技能。仓库不直接捆绑其他项目的技能、字体或图片；需要时，可通过下面的整套安装器从原项目下载。使用技能本身不会触发安装。
+
+<details>
+<summary>安装、来源与验证说明（点击展开）</summary>
 
 ## 整套安装到 Codex
 
@@ -81,3 +86,5 @@ $skill-installer 请从 GitHub 仓库 32w32w/my-skills 安装 skills/visual-art-
 ```
 
 测试在临时目录构造本地归档，覆盖预览、重复安装、资源和许可证保留、校验失败、目录穿越、符号链接、文件冲突及无效清单，不安装到实际用户技能目录。
+
+</details>
