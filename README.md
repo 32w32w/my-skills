@@ -12,6 +12,12 @@
 
 这是独立编写的指令型技能。仓库不直接捆绑其他项目的技能、字体或图片；需要时，可通过下面的整套安装器从原项目下载。使用技能本身不会触发安装。
 
+## 画派与绘画技法
+
+用于查找馆藏原作和版本、比较绘画技法、构思新作品与评审画稿。目录内含馆藏索引、技法案例和《闭馆以后》构思示例。[阅读技能说明](skills/painting-styles-and-techniques/SKILL.md)
+
+可单独安装 `skills/painting-styles-and-techniques`。正式评画使用 `painting` 的评画页和评审细则。[painting 原项目](https://github.com/bosphorify/claude-painting-skill)
+
 <details>
 <summary>安装、来源与验证说明（点击展开）</summary>
 
